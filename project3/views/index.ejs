@@ -1,0 +1,130 @@
+<html>
+
+<head>
+<title>Spark Timeline</title>
+<link rel="stylesheet" href="/style.css">
+<script src="main.js"></script>
+</head>
+
+<body>
+
+
+
+<div style="text-align:center; margin-bottom:40px;">
+<a href="/new">
+<button class="add-btn">Add New Spark ✨</button>
+</a>
+</div>
+
+<div class="timeline">
+
+<!-- (Personal), Love, Time, Life, Language, Nature, (Other) -->
+
+<!-- LOVE-->
+
+<div class="row pink-lane">
+<!-- filter and forEach -->
+<% allSparks.filter(s => s.category === "love").forEach(function(spark){ %>
+<!-- circle of each spark with title and images -->
+<div class="spark-bubble" data-title="<%= spark.title %>">
+<% if(spark.media){ %>
+<img src="/uploads/<%= spark.media %>" class="bubble-img">
+<% } else { %>
+<div class="default-pink-circle"></div>
+<% } %>
+
+</div>
+
+<% }) %>
+
+</div>
+
+
+<!-- TIME -->
+
+<div class="row red-lane">
+
+<% allSparks.filter(s => s.category === "time").forEach(function(spark){ %>
+
+<div class="spark-bubble" data-title="<%= spark.title %>">
+
+<% if(spark.media){ %>
+<img src="/uploads/<%= spark.media %>" class="bubble-img">
+<% } else { %>
+<div class="default-red-circle"></div>
+<% } %>
+
+</div>
+
+<% }) %>
+
+</div>
+
+
+<!-- LIFE -->
+
+<div class="row yellow-lane">
+
+<% allSparks.filter(s => s.category === "life").forEach(function(spark){ %>
+
+<div class="spark-bubble" data-title="<%= spark.title %>">
+
+<% if(spark.media){ %>
+<img src="/uploads/<%= spark.media %>" class="bubble-img">
+<% } else { %>
+<div class="default-yellow-circle"></div>
+<% } %>
+
+</div>
+
+<% }) %>
+
+</div>
+
+
+<!-- LANGUAGE-->
+
+<div class="row purple-lane">
+
+<% allSparks.filter(s => s.category === "language").forEach(function(spark){ %>
+
+<div class="spark-bubble" data-title="<%= spark.title %>">
+
+<% if(spark.media){ %>
+<img src="/uploads/<%= spark.media %>" class="bubble-img">
+<% } else { %>
+<div class="default-purple-circle"></div>
+<% } %>
+
+</div>
+
+<% }) %>
+
+</div>
+
+
+<!-- NATURE -->
+
+<div class="row blue-lane">
+
+<% allSparks.filter(s => s.category === "nature").forEach(function(spark){ %>
+
+<div class="spark-bubble" data-title="<%= spark.title %>">
+
+<% if(spark.media){ %>
+<img src="/uploads/<%= spark.media %>" class="bubble-img">
+<% } else { %>
+<div class="default-blue-circle"></div>
+<% } %>
+
+</div>
+
+<% }) %>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

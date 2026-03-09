@@ -1,0 +1,44 @@
+<html>
+<head>
+<link rel="stylesheet" href="/style.css">
+<script src="main.js"></script>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Capture a Spark ✨</h1>
+
+<form method="POST" action="/addSpark" enctype="multipart/form-data">
+
+<input type="text" name="title" placeholder="Spark Title" required>
+
+<textarea name="idea" placeholder="Describe your spark...
+What just ignited in your mind?"></textarea>
+
+<label>Category</label>
+<select name="category">
+<!-- <option value="personal">Personal</option> -->
+<option value="love">Love</option>
+<option value="time">Time</option>
+<option value="life">Life</option>
+<option value="language">Language</option>
+<option value="nature">Nature</option>
+<!-- <option value="other">Other</option> -->
+</select>
+
+<label>Date</label>
+<input type="date" name="date">
+
+<label>Media</label>
+<input type="file" name="media">
+
+<button type="submit">Save Spark</button>
+
+</form>
+
+</div>
+
+</body>
+</html>
