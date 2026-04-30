@@ -1,0 +1,67 @@
+{"personId":"person-16","text":"A flower in one hand, a phone in the other— balance, or contradiction.","_id":"1pRWePBfg8t0NZAF"}
+{"personId":"person-16","text":"Purple lipstick, black stilettos","_id":"1xv2uFDUljXP3wte"}
+{"personId":"person-18","text":"hiii","_id":"29p0DkpHKDBB2flw"}
+{"personId":"person-16","text":"blue hair","_id":"2VpkIwrdamX05cHq"}
+{"personId":"person-16","text":"hiii","_id":"2dxpSO1nMt33b5R6"}
+{"personId":"person-16","text":"this is it Sleep wake sleep Left right Left right left right Up down up Down up down Wake sleep wake","_id":"3EWBfOyh854Y4Mbv"}
+{"personId":"person-16","text":"headphones, phone, a crinkled Target bag","_id":"3LyoxlFGOIEFZaLo"}
+{"personId":"person-18","text":"Purple lipstick, black stilettos","_id":"5EvPiaJpNrLLW6Po"}
+{"personId":"person-16","text":"a Converse charm swinging from a worn backpack","_id":"6XmuDrNs407VLCaV"}
+{"personId":"person-3","text":"w","_id":"7CyWfY5TgjAAou9l"}
+{"personId":"person-8","text":"hiii","_id":"87qJgmpUc6AZDaPY"}
+{"personId":"person-24","text":"NYPD passing through, while the subway hums with faces lit blue, brows folded into quiet storms, scrolling, scrolling, scrolling.","_id":"9I8QhjH5QDhnfO42"}
+{"personId":"person-16","text":"hiii","_id":"BLjLQAnIBjk3wFaj"}
+{"personId":"person-9","text":"hiii","_id":"BPFVjeGmjmDTxpGK"}
+{"personId":"person-9","text":"Ginger-red hair— a mermaid, almost, if she had survived the Hunger Games.","_id":"BWxwWcsfQbgEG1c2"}
+{"personId":"person-11","text":"headphones, phone, a crinkled Target bag","_id":"CXETFy6lcDotpYiV"}
+{"personId":"person-3","text":"blue hair","_id":"E8xi76ePGyjd62Eg"}
+{"personId":"person-19","text":"blue hair","_id":"F7PB33am0FOABlU6"}
+{"personId":"person-17","text":"blue hair","_id":"FYGFGrzlXjGi1OW4"}
+{"personId":"person-12","text":"Blue hair","_id":"FgKx5pYr8LWBYyar"}
+{"personId":"person-6","text":"yooooo","_id":"GlERyBIH2CqTc6eq"}
+{"personId":"person-21","text":"blue hair","_id":"H2ar3uv7zbBwfdhT"}
+{"personId":"person-22","text":"a Converse charm swinging from a worn backpack","_id":"HZMUhmWdtUZ2pWKl"}
+{"personId":"person-17","text":"Sleep wake sleep Left right Left right left right Up down up Down up down Wake sleep wake","_id":"Hi0Dq23Ap8Fqn4vf"}
+{"personId":"person-16","text":"a Converse charm swinging from a worn backpack","_id":"IbrZ70x98Ag9iOOq"}
+{"personId":"person-16","text":"yooo","_id":"JQcKOe5AJY6jCZDw"}
+{"personId":"person-20","text":"Jade rings crowd every finger, as if holding onto something ancient.","_id":"KhIQAlESf8fGUMpw"}
+{"personId":"person-19","text":"hiii","_id":"MtGuolcD2WG4au1d"}
+{"personId":"person-16","text":"a Converse charm swinging from a worn backpack","_id":"OXk59vbqlPX4nPoh"}
+{"personId":"person-20","text":"Purple lipstick, black stilettos","_id":"PBFb27JYWOfPPY2U"}
+{"personId":"person-16","text":"headphones, phone, a crinkled Target bag","_id":"Pn1gvaU01N9qG99k"}
+{"personId":"person-16","text":"NYPD passing through, while the subway hums with faces lit blue, brows folded into quiet storms, scrolling, scrolling, scrolling.","_id":"Rk6dj6LUVE48shf0"}
+{"personId":"person-16","text":"NYPD passing through, while the subway hums with faces lit blue, brows folded into quiet storms, scrolling, scrolling, scrolling.","_id":"SQJZlmIeK2duDVWO"}
+{"personId":"person-17","text":"headphones, phone, a crinkled Target bag","_id":"ShJ4sJeVwfnT98hJ"}
+{"personId":"person-22","text":"NYPD passing through, while the subway hums with faces lit blue, brows folded into quiet storms, scrolling, scrolling, scrolling.","_id":"UFwKfxFaRAK87Vwk"}
+{"personId":"person-3","text":"Sleep wake sleep Left right Left right left right Up down up Down up down Wake sleep wake","_id":"UMkN39XbafT1ZSdU"}
+{"personId":"person-4","text":"hiii","_id":"V2kfBGt4hshTi14H"}
+{"personId":"person-3","text":"yooo","_id":"VuBK2luAQWJWUXEQ"}
+{"personId":"person-16","text":"headphones, phone, a crinkled Target bag","_id":"WBgt97VAVI5G5C76"}
+{"personId":"person-20","text":"Ginger-red hair— a mermaid, almost, if she had survived the Hunger Games.","_id":"WWT8ktBMFCWFBVdk"}
+{"personId":"person-6","text":"NYPD passing through, while the subway hums with faces lit blue, brows folded into quiet storms, scrolling, scrolling, scrolling.","_id":"X3IE3IV0mScnjpi0"}
+{"personId":"person-16","text":"q","_id":"ZpqqzpeSOgI2YJ34"}
+{"personId":"person-18","text":"a Converse charm swinging from a worn backpack","_id":"a5Wpu9fA80NOjkdL"}
+{"personId":"person-17","text":"headphones, phone, a crinkled Target bag","_id":"aDAApurmaks8VbED"}
+{"personId":"person-10","text":"Sleep, wake, sleep. Left, right, left— right, left, right. Up, down, up— down, up, down. Wake, sleep, wake.","_id":"aThs4A4HpnPfwZ5m"}
+{"personId":"person-3","text":"blue hair","_id":"b5wGHJWPceI5zrsP"}
+{"personId":"person-16","text":"headphones, phone, a crinkled Target bag","_id":"c2m9PkaZitAFyW1Z"}
+{"personId":"person-3","text":"Music spills from headphones— too loud, too public— business casual wrapped in K-pop soul.","_id":"cikl5vJFPmqmFSY3"}
+{"personId":"person-18","text":"hi","_id":"dP0PQSOEUfSZjRBZ"}
+{"personId":"person-17","text":"blue hair","_id":"eEvJHUJlX3r0mwAE"}
+{"personId":"person-8","text":"blue hair","_id":"fa1bxIIU80IxxvIn"}
+{"personId":"person-15","text":"Cat-shaped glasses, gum snapped between thoughts.","_id":"js1Qjyp2uY4x7iCH"}
+{"personId":"person-17","text":"hiii","_id":"lObpWh6BID2JFs1X"}
+{"personId":"person-12","text":"NYPD passing through, while the subway hums with faces lit blue, brows folded into quiet storms, scrolling, scrolling, scrolling.","_id":"lXsxD7jVQcjy7dDn"}
+{"personId":"person-16","text":"Sleep wake sleep Left right Left right left right Up down up Down up down Wake sleep wake","_id":"mkNBifF89Gvdly81"}
+{"personId":"person-17","text":"yooo","_id":"nDyZ7y747vRsTjuE"}
+{"personId":"person-5","text":"a Converse charm swinging from a worn backpack","_id":"nZEOlTHameI9emK4"}
+{"personId":"person-17","text":"Scanning a book titled Globalization, behind oversized lenses, trying to read the world while inside it.","_id":"qKrcvB5I6JGPkNZg"}
+{"personId":"person-20","text":"blue hair","_id":"rWTM0Lf83UDgyd72"}
+{"personId":"person-15","text":"Sleep, wake, sleep. Left, right, left— right, left, right. Up, down, up— down, up, down. Wake, sleep, wake.","_id":"t4i3Xc6QqQZXSsKt"}
+{"personId":"person-20","text":"wjdwdw","_id":"tWuxaQomLUVvVRNs"}
+{"personId":"person-17","text":"yooo","_id":"x2wKWotOjiDN8q60"}
+{"personId":"person-21","text":"yooo","_id":"xF7rYRrbvGGnfYys"}
+{"personId":"person-6","text":"Purple lipstick, black stilettos","_id":"xIpmSJ7pKXIwIu2Z"}
+{"personId":"person-13","text":"phone. scroll. sleep.","_id":"y3xsPVHMrSDqPXQT"}
+{"personId":"person-19","text":"a Converse charm swinging from a worn backpack","_id":"pe9Pun9rO609ckBf"}
+{"personId":"person-20","text":"headphones, phone, a crinkled Target bag","_id":"Kd2cRrNn3ff6taXc"}
