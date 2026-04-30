@@ -1,0 +1,216 @@
+
+/* 
+.className
+
+#idName 
+*/
+
+body {
+    margin: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    background: #121212;
+}
+
+#world {
+    display: flex;
+    width: 900vw; 
+}
+
+.scene {
+    position: relative; 
+    width: 300vw;
+    height: 100vh;
+    flex-shrink: 0;
+}
+
+
+#bridge-scene {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+/* text */
+.title {
+
+position: absolute;
+  font-family: 'Courier New', Courier, monospace;
+top: 40%;
+left: 18%;
+transform: translate(-50%, -50%);
+font-size: 96px;
+color: white;
+
+}
+
+.bridge-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.8);
+   
+}
+
+.instruction {
+    margin-top: 40px;
+    font-size: 20px;
+    font-style: italic;
+    color: #aaa;
+}
+
+
+/* door */
+#scene-door {
+    position: sticky;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    overflow: auto;
+}
+
+.door-img {
+    width: 50vw;
+    height: 100vh;
+  ;
+}
+
+
+#trainBackground {
+    width: 300%;
+    height: 100%;
+    background-image: url("/pic/train.jpg");
+    background-repeat: repeat-x;
+    background-size: contain;
+    position:absolute;
+}
+
+
+/* pop up */
+#observation-form-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(10, 10, 10, 0.95);
+    padding: 40px; 
+    border: 2px solid #fff;
+    z-index: 9999; 
+    width: 60%;
+    max-width: 600px;
+    text-align: center;
+}
+
+#obs-input {
+    width: 100%; 
+    font-size: 24px; 
+    padding: 15px;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    color: white;
+    outline: none;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.person-tooltip {
+    position: absolute;
+    pointer-events: none; 
+    opacity: 0;  
+    background: radial-gradient(circle, rgba(83, 83, 83, 0.7) 0%, rgba(0, 0, 0, 0) 80%);
+    width: 250px; 
+    height: 250px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px; 
+     font-family: 'Courier New', Courier, monospace;
+    z-index: 1000; 
+    transition: opacity 0.3s ease;
+    transform: translate(-50%, -130%); 
+    text-align: center;
+    line-height: 1.2;
+    padding: 20px;
+    word-wrap: break-word; 
+}
+
+.person:hover + .person-tooltip {
+    opacity: 1;
+}
+
+
+#obs-input {
+    background: #333;
+    border: 1px solid #555;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+#peopleLayer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 20; 
+    pointer-events: none;
+}
+
+.person:hover {
+    filter: brightness(1.5);
+}
+
+.person {
+    position: absolute;
+    height: 58%;
+    width: auto;
+    transform: translate(-50%, -100%); 
+    cursor: pointer;
+    z-index: 30;
+    pointer-events: auto;
+}
+
+#person-container {
+position: relative;
+display: inline-block;
+cursor: pointer;
+}
+
+
+.person:nth-child(10) { top: 90%; left: 5%; }
+.person:nth-child(24) { top: 94%; left: 10%; }
+.person:nth-child(17) { top: 90%; left: 15%; }
+.person:nth-child(19) { top: 82%; left: 23%; }
+.person:nth-child(18) { top: 92%; left: 31%; }
+.person:nth-child(4) { top: 94%; left: 38%; }
+.person:nth-child(20) { top: 94%; left: 48%; }
+.person:nth-child(22) { top: 90%; left: 53%; }
+.person:nth-child(15) { top: 94%; left: 62%; }
+.person:nth-child(7) { top: 90%; left: 70%; }
+.person:nth-child(8) { top: 87%; left: 78%; }
+.person:nth-child(6) { top: 94%; left: 85%; }
+.person:nth-child(14) { top: 94%; left: 95%; }
+.person:nth-child(16) { top: 86%; left: 110.5%; }
+.person:nth-child(11) { top: 82%; left: 114%; }
+.person:nth-child(25) { top: 90%; left: 123%; }
+.person:nth-child(13) { top: 85%; left: 132%; }
+.person:nth-child(23) { top: 87%; left: 142%; }
+.person:nth-child(12) { top: 94%; left: 149%; }
+.person:nth-child(21) { top: 86%; left: 157%; }
+.person:nth-child(26) { top: 90%; left: 164%; }
+.person:nth-child(9) { top: 94%; left: 177%; }
+.person:nth-child(15) { top: 94%; left: 189%; }
+.person:nth-child(1) { top: 90%; left: 195%; }
+.person:nth-child(15) { top: 94%; left: 210%; }
+.person:nth-child(2) { top: 90%; left: 229%; }
+.person:nth-child(5) { top: 94%; left: 250%; }
+.person:nth-child(3) { top: 87%; left: 270%; }
+.person:nth-child(11) { top: 87%; left: 280%; }
+
